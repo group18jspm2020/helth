@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611193239015",
+    "project_id": "fcm-doctor-e1a01",
+    "storage_bucket": "fcm-doctor-e1a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611193239015:android:f67aa03bab6d270ba03942",
+        "android_client_info": {
+          "package_name": "com.example.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611193239015-ev5ctkoa4odqlod28vama3tncl41f8k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHeU2ZfNyGrBGHxk3RstyiAHCeg0OqifQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611193239015-ev5ctkoa4odqlod28vama3tncl41f8k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
